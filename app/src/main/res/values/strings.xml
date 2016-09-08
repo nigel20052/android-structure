@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Strutcture</string>
+
+    <string name="session_local_storage">basic_structure</string>
+
+    <!-- Menu -->
+    <string name="menu_configuration">Configuración</string>
+    <string name="menu_main_option">Option</string>
+
+    <!-- Textviews -->
+    <string name="texview_demo">Esto es un TextView</string>
+
+    <!-- Others -->
+    <string name="demo_menu_option">This is a demo option</string>
+</resources>
